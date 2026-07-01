@@ -57,6 +57,9 @@ https://github.com/HetviGonawala/smart-city-issue-reporting-system
 
 A full-stack MERN web application inspired by Airbnb that allows users to create, manage, and explore property listings with authentication and image uploads.
 
+🔗 **Live Demo:**  
+https://wanderlust-web-app-usd6.onrender.com
+
 **Repository:**  
 https://github.com/HetviGonawala/wanderlust-web-app
 
