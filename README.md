@@ -31,7 +31,7 @@
 ### Tools & Platforms
 - Git
 - GitHub
-- Postman
+- Hoppscotch
 - MongoDB Atlas
 - Cloudinary
 - Render
@@ -62,7 +62,7 @@ https://github.com/HetviGonawala/wanderlust-web-app
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - Full Stack MERN Development
