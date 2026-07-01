@@ -2,11 +2,11 @@
 
 🎓 B.Tech Student in Information Technology
 
--Passionate Web Developer with a strong interest in Frontend Development, Full Stack MERN Development, and Software Engineering.
+- Passionate Web Developer with a strong interest in Frontend Development, Full Stack MERN Development, and Software Engineering.
 
--Currently learning Data Structures & Algorithms while building scalable Full Stack Web Applications.
+- Currently learning Data Structures & Algorithms while building scalable Full Stack Web Applications.
 
--Actively seeking Internship opportunities in Web Development, Frontend Development, MERN Stack Development, and Software Engineering.
+- Actively seeking Internship opportunities in Web Development, Frontend Development, MERN Stack Development, and Software Engineering.
 
 ---
 
